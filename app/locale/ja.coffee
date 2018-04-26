@@ -63,7 +63,7 @@ module.exports = nativeDescription: "日本語", englishDescription: "Japanese",
 #    want_coco: "Want CodeCombat at your school?"
 
   nav:
-    map: "マップ"
+    map: "ちず"
     play: "ゲームマップへ" # The top nav bar entry where players choose which levels to play
     community: "コミュニティー"
     courses: "コース"
@@ -76,14 +76,14 @@ module.exports = nativeDescription: "日本語", englishDescription: "Japanese",
     contribute: "コントリビュート"
     legal: "規約"
     privacy: "プライバシー"
-    about: "CoCoについて"
+    about: "ここについて"
     contact: "お問い合わせ"
     twitter_follow: "フォロー"
     my_classrooms: "マイクラス"
     my_courses: "マイコース"
     careers: "経歴"
-    facebook: "Facebook"
-    twitter: "Twitter"
+    facebook: "ファスブク"
+    twitter: "トウィータ"
     create_a_class: "クラスを作る"
     other: "その他"
     learn_to_code: "コードを学ぶ!"
@@ -102,7 +102,7 @@ module.exports = nativeDescription: "日本語", englishDescription: "Japanese",
 
   modal:
     close: "閉じる"
-    okay: "OK"
+    okay: "はい"
 
   not_found:
     page_not_found: "ページが見つかりません"
@@ -216,14 +216,14 @@ module.exports = nativeDescription: "日本語", englishDescription: "Japanese",
 
   login:
     sign_up: "アカウント登録"
-    email_or_username: "Eメールまたはユーザー名"
+    email_or_username: "イメールまたはユーザー名"
     log_in: "ログイン"
     logging_in: "ログイン中"
     log_out: "ログアウト"
     forgot_password: "パスワードをお忘れですか？"
     finishing: "仕上げ中"
-    sign_in_with_facebook: "Facebookでログイン"
-    sign_in_with_gplus: "Google+でログイン"
+    sign_in_with_facebook: "ファスブクでログイン"
+    sign_in_with_gplus: "グコルプルスでログイン"
     signup_switch: "アカウントを作成しますか？"
 
   signup:
@@ -240,10 +240,10 @@ module.exports = nativeDescription: "日本語", englishDescription: "Japanese",
     required: "ログインする必要があります"
     login_switch: "すでにアカウントをお持ちですか？"
     optional: "オプション"
-    connected_gplus_header: "Google+との連携に成功しました!"
-    connected_gplus_p: "Google+での登録が完了しました。"
-    connected_facebook_header: "Facebookとの連携に成功しました!"
-    connected_facebook_p: "Facebookでの登録が完了しました。."
+    connected_gplus_header: "グコルプルスとの連携に成功しました!"
+    connected_gplus_p: "グコルプルスでの登録が完了しました。"
+    connected_facebook_header: "ファスブクとの連携に成功しました!"
+    connected_facebook_p: "ファスブクでの登録が完了しました。."
 #    hey_students: "Students, enter the class code from your teacher."
 #    birthday: "Birthday"
 #    parent_email_blurb: "We know you can't wait to learn programming &mdash; we're excited too! Your parents will receive an email with further instructions on how to create an account for you. Email {{email_link}} if you have any questions."
@@ -1194,9 +1194,9 @@ module.exports = nativeDescription: "日本語", englishDescription: "Japanese",
     social_github: "GitHubで私達のコードをチェックする"
     social_blog: "Sett の CodeCombat ブログを読む"
     social_discource: "Discourse のフォーラムで議論しよう"
-    social_facebook: "Facebook で CodeCombat にいいね！する"
-    social_twitter: "Twitter の CodeCombat をフォローする"
-    social_gplus: "Google+ の CodeCombat に参加する"
+    social_facebook: "ファスブク で CodeCombat にいいね！する"
+    social_twitter: "トウィータ の CodeCombat をフォローする"
+    social_gplus: "グコルフルス の CodeCombat に参加する"
     social_slack: "公開CodeCombat Slackチャンネルで私たちと話す"
     contribute_to_the_project: "プロジェクトに貢献する"
 
